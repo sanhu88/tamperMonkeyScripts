@@ -5,7 +5,7 @@
 // @version      0.3
 // @description  淘宝司法拍卖的名字照片alt在Chrome里hover并不显示，title使用alt的值即可
 // @author       sanhu88
-// @match        https://sf.taobao.com/list/*
+// @match        https://sf.taobao.com/*
 // @connect      sf.taobao.com
 // @grant        GM_addStyle
 // @charset		 UTF-8
